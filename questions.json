@@ -1,0 +1,178 @@
+[
+   {
+    "question": "Ein 16-Jähriger schließt ohne erforderliche Zustimmung seiner Eltern einen Vertrag, der für ihn nicht lediglich rechtlich vorteilhaft ist. Welche Rechtsfolge tritt grundsätzlich ein?",
+    "options": {
+      "A": "Der Vertrag ist automatisch vollständig wirksam.",
+      "B": "Der Vertrag ist immer endgültig nichtig.",
+      "C": "Die Wirksamkeit hängt grundsätzlich von der Genehmigung des gesetzlichen Vertreters ab; der Vertrag ist bis dahin schwebend unwirksam.",
+      "D": "Der Minderjährige wird dadurch automatisch voll geschäftsfähig."
+    },
+    "correct": "C",
+    "explanation": "Nach § 108 BGB hängt die Wirksamkeit eines ohne erforderliche Einwilligung geschlossenen Vertrags eines beschränkt Geschäftsfähigen von der Genehmigung des gesetzlichen Vertreters ab. Dieser Zustand wird als schwebende Unwirksamkeit bezeichnet."
+  },
+  {
+    "question": "Welche Aussage beschreibt § 110 BGB, den sogenannten Taschengeldparagraphen, zutreffend?",
+    "options": {
+      "A": "Jeder Minderjährige darf unabhängig vom Alter jeden Vertrag abschließen.",
+      "B": "Nur Käufe bis genau 10 Euro sind wirksam.",
+      "C": "Der Paragraph gilt ausschließlich für volljährige Personen.",
+      "D": "Ein Vertrag kann von Anfang an wirksam sein, wenn der beschränkt Geschäftsfähige die vertragsmäßige Leistung vollständig mit dafür oder zur freien Verfügung überlassenen Mitteln bewirkt."
+    },
+    "correct": "D",
+    "explanation": "§ 110 BGB knüpft nicht an eine feste Eurogrenze an. Entscheidend ist unter anderem, dass der beschränkt geschäftsfähige Minderjährige die vertragsmäßige Leistung mit Mitteln bewirkt, die ihm zu diesem Zweck oder zur freien Verfügung überlassen wurden."
+  },
+  {
+    "question": "Ein sechsjähriges Kind kauft für 2 Euro Süßigkeiten von seinem Taschengeld. Welche Aussage ist grundsätzlich richtig?",
+    "options": {
+      "A": "Die Willenserklärung des Kindes ist wegen seiner Geschäftsunfähigkeit grundsätzlich nichtig.",
+      "B": "Der Vertrag ist aufgrund von § 110 BGB immer wirksam.",
+      "C": "Das Kind ist wegen des geringen Kaufpreises beschränkt geschäftsfähig.",
+      "D": "Geschäftsfähigkeit beginnt bei Käufen unter 5 Euro bereits mit fünf Jahren."
+    },
+    "correct": "A",
+    "explanation": "Ein sechsjähriges Kind hat das siebente Lebensjahr noch nicht vollendet und ist daher nach § 104 Nr. 1 BGB geschäftsunfähig. Die Höhe des Kaufpreises ändert daran nichts. § 110 BGB betrifft beschränkt Geschäftsfähige und schafft keine allgemeine Bagatellgrenze."
+  },
+  {
+    "question": "Welche Aussage über einen Minderjährigen trifft zu, der mit entsprechender Ermächtigung seiner gesetzlichen Vertreter ein Arbeitsverhältnis eingeht?",
+    "options": {
+      "A": "Er wird für sämtliche Rechtsgeschäfte seines Lebens voll geschäftsfähig.",
+      "B": "Er darf niemals selbst Erklärungen zum Arbeitsverhältnis abgeben.",
+      "C": "Er bleibt auch für das Arbeitsverhältnis in jedem Fall vollständig handlungsunfähig.",
+      "D": "Für bestimmte Rechtsgeschäfte im Zusammenhang mit dem gestatteten Dienst- oder Arbeitsverhältnis kann er nach § 113 BGB unbeschränkt geschäftsfähig sein."
+    },
+    "correct": "D",
+    "explanation": "§ 113 BGB erweitert die Geschäftsfähigkeit eines entsprechend ermächtigten Minderjährigen für Rechtsgeschäfte, die die Eingehung oder Aufhebung eines gestatteten Dienst- oder Arbeitsverhältnisses oder die Erfüllung daraus entstehender Verpflichtungen betreffen. Daraus folgt keine allgemeine volle Geschäftsfähigkeit für sämtliche Lebensbereiche."
+  },
+  {
+    "question": "Was ist eine natürliche Person?",
+    "options": {
+      "A": "Jeder Mensch als Träger von Rechten und Pflichten.",
+      "B": "Nur ein volljähriger Mensch.",
+      "C": "Ausschließlich ein selbstständiger Unternehmer.",
+      "D": "Eine Kapitalgesellschaft."
+    },
+    "correct": "A",
+    "explanation": "Jeder Mensch ist eine natürliche Person. Die Rechtsfähigkeit des Menschen beginnt nach § 1 BGB mit der Vollendung der Geburt. Minderjährigkeit beseitigt die Rechtsfähigkeit nicht."
+  },
+  {
+    "question": "Welche Aussage beschreibt eine juristische Person am besten?",
+    "options": {
+      "A": "Ein Tier mit besonderen gesetzlichen Rechten.",
+      "B": "Eine rechtlich anerkannte Organisation, der die Rechtsordnung eigene Rechtspersönlichkeit und damit Rechtsfähigkeit zuerkennt.",
+      "C": "Jeder Minderjährige ab sieben Jahren.",
+      "D": "Jede beliebige Gruppe von Menschen ohne weitere rechtliche Voraussetzungen."
+    },
+    "correct": "B",
+    "explanation": "Eine juristische Person ist ein rechtlich verselbstständigter Verband oder eine Organisation mit eigener Rechtspersönlichkeit. Sie kann selbst Trägerin von Rechten und Pflichten sein und handelt durch ihre Organe."
+  },
+  {
+    "question": "Welche Gesellschaft ist eine juristische Person des privaten Rechts?",
+    "options": {
+      "A": "OHG.",
+      "B": "KG.",
+      "C": "AG.",
+      "D": "Eine lose Lerngruppe ohne Rechtsform."
+    },
+    "correct": "C",
+    "explanation": "Die Aktiengesellschaft ist eine juristische Person des privaten Rechts und eine Kapitalgesellschaft. OHG und KG sind dagegen rechtsfähige Personengesellschaften, aber keine juristischen Personen."
+  },
+  {
+    "question": "Welche Aussage über die OHG ist richtig?",
+    "options": {
+      "A": "Sie ist immer eine juristische Person des öffentlichen Rechts.",
+      "B": "Sie ist eine natürliche Person.",
+      "C": "Sie kann keine eigenen Verbindlichkeiten eingehen.",
+      "D": "Sie ist eine rechtsfähige Personengesellschaft und kann Rechte erwerben sowie Verbindlichkeiten eingehen."
+    },
+    "correct": "D",
+    "explanation": "Nach § 105 Abs. 2 HGB kann die OHG Rechte erwerben und Verbindlichkeiten eingehen. Sie ist damit rechtsfähig. Sie ist jedoch keine natürliche und keine juristische Person."
+  },
+  {
+    "question": "Welche Aussage über eine KG ist richtig?",
+    "options": {
+      "A": "Sie ist eine rechtsfähige Personengesellschaft und keine juristische Person.",
+      "B": "Sie ist eine natürliche Person.",
+      "C": "Sie ist zwingend eine juristische Person des öffentlichen Rechts.",
+      "D": "Sie kann niemals selbst Vertragspartnerin sein."
+    },
+    "correct": "A",
+    "explanation": "Die KG ist eine Personengesellschaft. Nach § 161 Abs. 2 HGB gelten grundsätzlich die Vorschriften über die OHG entsprechend. Damit kann auch die KG selbst Rechte erwerben und Verbindlichkeiten eingehen, ohne eine juristische Person zu sein."
+  },
+  {
+    "question": "Welche Aussage über Tiere entspricht dem BGB?",
+    "options": {
+      "A": "Tiere sind natürliche Personen.",
+      "B": "Tiere sind juristische Personen.",
+      "C": "Tiere sind beschränkt geschäftsfähige Rechtssubjekte.",
+      "D": "Tiere sind keine Sachen; soweit nichts anderes bestimmt ist, werden die Vorschriften über Sachen entsprechend angewandt."
+    },
+    "correct": "D",
+    "explanation": "§ 90a BGB bestimmt ausdrücklich, dass Tiere keine Sachen sind. Sie werden durch besondere Gesetze geschützt. Soweit nichts anderes bestimmt ist, werden die für Sachen geltenden Vorschriften entsprechend angewandt. Tiere sind jedoch keine Rechtssubjekte wie natürliche oder juristische Personen."
+  },
+  {
+    "question": "Was ist ein Rechtssubjekt?",
+    "options": {
+      "A": "Ein Träger von Rechten und Pflichten.",
+      "B": "Ausschließlich eine bewegliche Sache.",
+      "C": "Nur ein Gericht.",
+      "D": "Jeder Gegenstand, der verkauft werden kann."
+    },
+    "correct": "A",
+    "explanation": "Rechtssubjekte sind Träger von Rechten und Pflichten. Dazu gehören insbesondere natürliche und juristische Personen sowie rechtsfähige Personengesellschaften. Sachen sind dagegen Rechtsobjekte."
+  },
+  {
+    "question": "Was ist eine vertretbare Sache im Sinne des § 91 BGB?",
+    "options": {
+      "A": "Jede besonders wertvolle Sache.",
+      "B": "Eine bewegliche Sache, die im Verkehr nach Zahl, Maß oder Gewicht bestimmt zu werden pflegt.",
+      "C": "Ausschließlich ein Grundstück.",
+      "D": "Nur ein einmaliges Kunstwerk."
+    },
+    "correct": "B",
+    "explanation": "Nach § 91 BGB sind vertretbare Sachen bewegliche Sachen, die im Verkehr nach Zahl, Maß oder Gewicht bestimmt zu werden pflegen. Typische Beispiele sind serienmäßig gehandelte Waren, Getreide oder Heizöl."
+  },
+  {
+    "question": "Welches Beispiel eignet sich typischerweise für eine nicht vertretbare Sache?",
+    "options": {
+      "A": "Ein bestimmtes einzigartiges Originalgemälde.",
+      "B": "100 Liter handelsübliches Heizöl.",
+      "C": "Ein Kilogramm Zucker aus einer üblichen Handelscharge.",
+      "D": "Zehn identische neue Schrauben aus einer Großpackung."
+    },
+    "correct": "A",
+    "explanation": "Eine individuell bestimmte, einzigartige Sache wird nicht nach Zahl, Maß oder Gewicht als austauschbare Sache gehandelt. Ein bestimmtes Originalgemälde ist daher ein typisches Beispiel für eine nicht vertretbare Sache."
+  },
+  {
+    "question": "Welche Sache ist unbeweglich?",
+    "options": {
+      "A": "Ein Notebook.",
+      "B": "Ein Fahrrad.",
+      "C": "Ein Grundstück.",
+      "D": "Ein Smartphone."
+    },
+    "correct": "C",
+    "explanation": "Grundstücke sind unbewegliche Sachen beziehungsweise Immobilien. Notebook, Fahrrad und Smartphone sind dagegen bewegliche Sachen."
+  },
+  {
+    "question": "Was kennzeichnet einen Sachdarlehensvertrag?",
+    "options": {
+      "A": "Der Darlehensnehmer muss exakt dieselben individuellen Gegenstände zurückgeben.",
+      "B": "Es darf ausschließlich Geld überlassen werden.",
+      "C": "Der Vertrag betrifft ausschließlich Grundstücke.",
+      "D": "Vertretbare Sachen werden überlassen und später sind Sachen gleicher Art, Güte und Menge zurückzugewähren."
+    },
+    "correct": "D",
+    "explanation": "Beim Sachdarlehen werden vertretbare Sachen überlassen. Der Darlehensnehmer muss nicht dieselben einzelnen Stücke zurückgeben, sondern Sachen gleicher Art, Güte und Menge. Das unterscheidet das Sachdarlehen beispielsweise von der Leihe."
+  },
+  {
+    "question": "Was bedeutet Vertragsfreiheit grundsätzlich?",
+    "options": {
+      "A": "Die Beteiligten können im Rahmen der gesetzlichen Grenzen grundsätzlich selbst entscheiden, ob und mit wem sie einen Vertrag schließen und wie sie ihn gestalten.",
+      "B": "Jeder Vertrag ist unabhängig von seinem Inhalt wirksam.",
+      "C": "Unternehmen dürfen Gesetze durch Verträge außer Kraft setzen.",
+      "D": "Verträge dürfen ausschließlich schriftlich geschlossen werden."
+    },
+    "correct": "A",
+    "explanation": "Vertragsfreiheit ist ein wesentlicher Grundsatz des Privatrechts. Dazu gehören insbesondere Abschlussfreiheit und Gestaltungs- beziehungsweise Inhaltsfreiheit. Sie besteht jedoch nur innerhalb der gesetzlichen Grenzen."
+  }
+]
